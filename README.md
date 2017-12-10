@@ -1,5 +1,4 @@
-# bitcoin_clients
-A series of webclients to gather data about bitcoin
+To work on this repo, always make a branch with a description of your task and group. When finished, make a pull request into 'master'
 
 
 First task:
